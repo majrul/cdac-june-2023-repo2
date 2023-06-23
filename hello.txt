@@ -1,2 +1,2 @@
-Hello everyone!
+Hi All, we are learning Git!
 Some changes done
