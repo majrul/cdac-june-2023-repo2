@@ -1,3 +1,4 @@
+Hello everyone! Git is interesting!
 Hi all! We are learning Git!
 
 Some changes
