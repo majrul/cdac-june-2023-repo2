@@ -1,2 +1,2 @@
-Hello everyone!
+Hello everyone, Git is very powerful!
 Some changes done
